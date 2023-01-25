@@ -1,3 +1,11 @@
+## ReacRoute
+
+Um pequeno trecho de código que cria Rotas em react .\
+1 Extrai em sua pasta local .\
+2 exclua o arquivo packge.lok .\
+3 execute em seu terminal npm instal dentro da pasta do projeto.\
+4 execute npm start .\
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
